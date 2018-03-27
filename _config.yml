@@ -14,15 +14,15 @@ logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/background-image2.jpg"
+cover: "/assets/images/background_image2.jpg"
 
-name: 'Nguyen Hoang Quoc Trung'
+name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://nhqtrung.github.io" # the base hostname & protocol for your site
+url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
