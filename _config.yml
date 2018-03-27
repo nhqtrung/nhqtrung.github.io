@@ -4,25 +4,25 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Quốc Trung"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   A coder - developer
 
-email: a-mail@mail.mail
+email: nhqtrung1995@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/qt_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/background_image2.jpg"
+cover: "/assets/images/background_image5.jpg"
 
-name: 'Dirk Fabisch'
+name: 'Nguyen Hoang Quoc Trung'
 author: 'Dirk Fabisch'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://nhqtrung.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
