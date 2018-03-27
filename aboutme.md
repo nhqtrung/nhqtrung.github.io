@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Coder and Developer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm Nguyen Hoang Quoc Trung, a coder and developer. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Javascript, Php
+- MySql server
+- Laravel/VueJs
+- Git(Git Shell & Github)
 
 What else do you need?
 
-### my history
+### My history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now, so why don't you just follow [my facebook](https://www.facebook.com/bam.bi.165) and it will answer **all** your questions.
