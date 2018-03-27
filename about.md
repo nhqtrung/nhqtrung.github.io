@@ -10,4 +10,4 @@ Xin chào mình là **Trung**. Hiện mình đang là sinh viên trường **ĐH
 
 ### Thông tin liên hệ
 
-[Facebook](http://facebook.com/bam.bi.165) | [Github](https://github.com/nhqtrung) | nhqtrung1995@gmail.com
+[Facebook](http://facebook.com/bam.bi.165) || [Github](https://github.com/nhqtrung) || [Email](mailto:nhqtrung1995@gmail.com)
