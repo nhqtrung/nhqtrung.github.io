@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Quốc Trung"
 description: > # this means to ignore newlines until "email:"
-   A coder - developer
+   A coder and developer
 
 email: nhqtrung1995@gmail.com
 #blog logo
@@ -16,7 +16,7 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/background-image.jpg"
 
-name: 'Nguyen Hoang Quoc Trung'
+name: 'Nguyễn Hoàng Quốc Trung'
 author: 'Nguyễn Hoàng Quốc Trung'
 author_image: "/assets/images/author.jpg"
 
